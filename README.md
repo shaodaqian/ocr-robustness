@@ -1,4 +1,4 @@
-# DeepGame (A Game-Based Approximate Verification of Deep Neural Networks with Provable Guarantees)
+# Final-Year-Project-1017381
 
 Min Wu, Matthew Wicker, Wenjie Ruan, Xiaowei Huang, Marta Kwiatkowska.
 
