@@ -14,29 +14,12 @@ scipy 1.1.0
 ```
 
 # Run
-```
-python main.py mnist ub cooperative 67 L2 10 1
-```
-or
-```
-./commands.sh
-```
+Codes for training the network are in CRNN
+Codes for the game-based method are in DeepGame
+Codes for Lipschitz constant estimation are in Lipschitz, where CLEVER is the extreme value approach, and rnn_bound,cnn_bound are output range analysis approaches.
 
-# Citation
-```
-@article{wu2018game,
-  author={Wu, Min and Wicker, Matthew and Ruan, Wenjie and Huang, Xiaowei and Kwiatkowska, Marta},
-  title={A Game-Based Approximate Verification of Deep Neural Networks with Provable Guarantees},
-  journal={arXiv Preprint arXiv:1807.03571},
-  year={2018}
-}
-```
+python main.py mnist ub cooperative 67 L2 10 1
+
 
 # Remark
-This tool is under active development and maintenance, please feel free to contact us about any problem encountered.
 
-Best wishes,
-
-xiaowei.huang@cs.ox.ac.uk
-
-min.wu@cs.ox.ac.uk
